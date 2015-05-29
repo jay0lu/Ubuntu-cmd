@@ -1,0 +1,6 @@
+# install at first
+# sudo apt-get install at
+
+at now +65 minutes
+>(espeak SockTest;notify-send VM Done)
+CRTL-D   #exit at
